@@ -1,0 +1,10 @@
+{ "name": "flashsocket-js"
+, "description": "JS flash socket protocol"
+, "version": "0.0.1"
+, "author": "Pavel Dobrev <pavelgdobrev@gmail.com>"
+, "keywords": [ "javascript", "flash", "socket" ]
+, "directories": { "lib": "./lib" }
+, "engines": { "node": ">= 0.2.0" }
+, "main": "./index"
+, "licenses": [ { "type": "The MIT License", "url": "http://www.opensource.org/licenses/mit-license.php" } ]
+}
